@@ -2,7 +2,7 @@
 	<view class=info-list>
 		<view class=list-one>
 			<info-option title="拼好饭红包"></info-option>
-			<list-icon src="url(../../../static/img/tabbar/balance.png)"></list-icon>
+			
 		</view>
 		<view>
 			<info-option title="我的地址"></info-option>

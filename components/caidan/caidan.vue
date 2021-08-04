@@ -37,6 +37,7 @@
 		width: 40px;
 		height: 40px;
 		margin-bottom: 5rpx;
+		margin: 0 auto;
 	}
 	.cell-title{
 		font-size: 25rpx;

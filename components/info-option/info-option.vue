@@ -2,7 +2,6 @@
 	<view class="content">
 		<view class="list-cell">
 			<text class="cell-tit ">{{ title }}</text>
-			<image class="cell-img">{{images}}</image>
 		</view>
 		
 	</view>

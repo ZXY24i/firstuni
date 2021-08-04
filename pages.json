@@ -38,7 +38,7 @@
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
 		"navigationBarTitleText": "美团拼好饭",
-		"navigationBarBackgroundColor": "#ffff00",
+		"navigationBarBackgroundColor": "#f1bd00",
 		"backgroundColor": "#F8F8F8"
 	},
 	"tabBar": {
@@ -48,21 +48,21 @@
 		"selectedColor": "#f33e54",
 		"list": [{
 				"pagePath": "pages/index/homepage/index",
-				"iconPath": "static/img/tabbar/home.png",
-				"selectedIconPath": "static/img/tabbar/homeactive.png",
+				"iconPath": "static/img/home.png",
+				"selectedIconPath": "static/img/homeactive.png",
 				"text": "首页"
 			},
 
 			{
 				"pagePath": "pages/index/order/index",
-				"iconPath": "static/img/tabbar/news.png",
-				"selectedIconPath": "static/img/tabbar/newsactive.png",
+				"iconPath": "static/img/news.png",
+				"selectedIconPath": "static/img/newsactive.png",
 				"text": "订单"
 			},
 			{
 				"pagePath": "pages/index/info/index",
-				"iconPath": "static/img/tabbar/me.png",
-				"selectedIconPath": "static/img/tabbar/meactive.png",
+				"iconPath": "static/img/me.png",
+				"selectedIconPath": "static/img/meactive.png",
 				"text": "我"
 			}
 		]
